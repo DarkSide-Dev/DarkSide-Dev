@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkSide-Dev
 - 👀 I’m interested in became a good developer
-- 🌱 I’m currently learning PHP/Node
+- 🌱 I’m currently learning React-Native
 - 📫 Send me a mail: darksideprogrammer06@gmail.com
 
 <!---
