@@ -25,3 +25,4 @@
   <a href="DarkSide-Dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+<div><img src="https://komarev.com/ghpvc/?username=DarkSide-Dev&color=green" alt="DarkSide-Dev" /></div>
