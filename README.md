@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @DarkSide-Dev
+- 👋🏾 Hi, I’m @DarkSide-Dev (João Oliveira Arruda)
 - 👀 I’m interested in became a good developer
 - 🌱 I’m currently learning Java
 - 📫 Send me a mail: darksideprogrammer06@gmail.com
