@@ -1,5 +1,4 @@
 - 👋🏾 Hi, I’m @DarkSide-Dev (João Oliveira Arruda)
-- 📫 Send me a mail: darksideprogrammer06@gmail.com
 
 <!--  <div>
   <a href="https://github.com/DarkSide-Dev">
