@@ -26,12 +26,15 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Cloud & Tools
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### AI & Analytics
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -47,62 +50,21 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                949 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-🌆 Daytime                1248 commits        █████████░░░░░░░░░░░░░░░░   34.12 % 
-🌃 Evening                942 commits         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-🌙 Night                  519 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   175 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Tuesday                  720 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Wednesday                721 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Thursday                 766 commits         █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Friday                   770 commits         █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Saturday                 454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-JavaScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-HTML                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-```
-
-
-
-
- Last Updated on 07/02/2025 06:17:30 UTC
 <!--END_SECTION:waka-->
+
+## 🎓 Certifications
+- AWS Generative AI
+- Go Fundamentals
+- Firebase in React Native
+- Git/GitHub
+- React Native Development (DevsUber)
+
+## 👨‍🏫 Mentorship
+Currently mentoring at Instituto PROA, where I:
+- Provide technical guidance and strategic mentorship in project development
+- Support students in enhancing their technical knowledge
+- Share best practices in software development
+- Help identify architectural and methodological improvements
 
 ## 📫 Let's Connect!
 
