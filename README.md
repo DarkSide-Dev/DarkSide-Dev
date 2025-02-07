@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm João Arruda
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;AI+%26+Cloud+Solutions+Specialist;Next.js+%7C+TypeScript+%7C+Node.js" alt="Typing SVG" />
 </div>
 
@@ -47,12 +47,6 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ███████████░░░░  50.0%
-JavaScript   6 hrs 15 mins   ██████░░░░░░░░░  25.0%
-Python       3 hrs 45 mins   ███░░░░░░░░░░░░  15.0%
-Other        2 hrs 30 mins   ██░░░░░░░░░░░░░  10.0%
-```
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect!
