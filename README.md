@@ -54,9 +54,9 @@
 
 ### 💪 Proficiency Levels
 - **Expert (5+ years):** TypeScript, React, Node.js
-- **Advanced (3-5 years):** Python, PHP, Google Cloud
-- **Intermediate (1-3 years):** Flutter, React Native, OpenAI
-- **Growing Experience (<1 year):** Azure, MongoDB
+- **Advanced (3-5 years):** PostgreSQL, Python, PHP, Google Cloud
+- **Intermediate (1-3 years):** MongoDB, React Native, OpenAI
+- **Growing Experience (<1 year):** Azure, Flutter
 
 ## 🌟 Featured Projects
 
