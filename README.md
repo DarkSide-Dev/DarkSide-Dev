@@ -50,7 +50,7 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -79,16 +79,17 @@ Sunday                   52 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nn-app                   2 hrs 33 mins       ████████████████████████░   97.37 % 
+nodejs-arc-portal        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -104,7 +105,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2025 00:30:28 UTC
+ Last Updated on 09/02/2025 00:33:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Certifications
