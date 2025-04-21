@@ -113,15 +113,13 @@ Sunday                   71 commits          ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         █████████████████████████   98.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -137,7 +135,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2025 00:39:09 UTC
+ Last Updated on 21/04/2025 00:37:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Certifications
