@@ -84,7 +84,43 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2034%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3831 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+🌆 Daytime                5007 commits        █████████░░░░░░░░░░░░░░░░   36.36 % 
+🌃 Evening                3470 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌙 Night                  1462 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   671 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Tuesday                  3118 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Wednesday                2946 commits        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+Thursday                 2978 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+Friday                   2660 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Saturday                 1325 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Sunday                   72 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Java** 
 
@@ -99,7 +135,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 00:39:31 UTC
+ Last Updated on 29/09/2025 00:36:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Certifications
