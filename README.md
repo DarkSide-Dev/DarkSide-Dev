@@ -84,9 +84,9 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.33%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.33%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -135,7 +135,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 00:44:01 UTC
+ Last Updated on 06/01/2026 00:41:53 UTC
 <!--END_SECTION:waka-->
 
 ## 🎓 Certifications
