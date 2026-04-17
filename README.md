@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a Backend Engineer at DevSignal, crafting innovative solutions with AI integration
+- 🔭 Currently working as a Founder Software Engineer at DevSignal, crafting innovative solutions with AI integration
 - 🌟 Previous experience at ESTADÃO, where I worked on high-impact projects including Elections coverage and World Cup applications
 - 👨‍🏫 Former IT Instructor and active mentor, passionate about sharing knowledge
 - 🌐 Experienced in building scalable solutions with cloud platforms (Azure, Google Cloud, Firebase)
